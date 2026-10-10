@@ -1,0 +1,27 @@
+body{
+    background-color: #0bb066;
+    font-family: times new roman, sans-serif;
+    border: dotted;
+    align-items: center;
+}
+header{
+    background-color: #0bb066;
+    color: white;
+    padding: 20px;
+    text-align: left;
+}
+.navbar {
+    background-color: #0bb066;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    align-items: letf;
+}
+ul {
+    display: flex;
+    margin-right: 20px;
+    gap: 10px;
+    list-style-type: none;
+    align-items: right;
+}
